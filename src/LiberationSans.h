@@ -1,7 +1,7 @@
 #ifndef _LIBERATIONSANS_H
 #define _LIBERATIONSANS_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t LiberationSans10[];
